@@ -9,8 +9,6 @@
 
 **GRANITE** (**G**rowth **R**evenue **A**nalytics with **N**ative **I**ntelligence & **T**rend **E**xploration) is an AI-powered revenue forecasting platform built 100% on Snowflake. It transforms fragmented data into actionable intelligence using Monte Carlo simulation, scenario analysis, and Cortex AI.
 
-![GRANITE Dashboard](docs/screenshot-placeholder.png)
-
 ---
 
 ## Quick Start
